@@ -3,7 +3,7 @@ import os
 
 # Script: Log Search Utility
 # Description: Allows users to search for log events based on log message or log level
-# Date: August
+# Date: August 2023
 
 def search_level_events(file_path):
     """ This function searches for events based on user's inputted log level. 
