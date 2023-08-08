@@ -88,7 +88,7 @@ def export_employee_performance(signup_counts):
     Args:
         signup_counts: The employee ID and their respective signup counts from the count_signups_from_events function
     """
-    file_path = "../files/employee_signup_performance"
+    file_path = "../files/employee_signup_performance.txt"
     file_path = os.path.abspath(file_path)
    
     # Generates the file
