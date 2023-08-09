@@ -1,0 +1,67 @@
+[2023-07-28 21:54:49] WARNING: System failure. Can not proceed with product selection and transaction
+[2023-08-01 17:59:01] INFO: Employee 2 logged in
+[2023-08-01 17:59:32] FINE: Employee 2 added a new customer. Customer ID: [22]. Customer Phone: [2327768889]. Customer Name: [Kyla]
+[2023-08-01 17:59:32] INFO: Employee 2 processed a new transaction. Transaction: [120]
+[2023-08-01 17:59:35] INFO: Employee 2 logged out
+[2023-08-01 17:59:39] INFO: Employee 3 logged in
+[2023-08-01 18:00:10] FINE: Employee 3 added a new customer. Customer ID: [23]. Customer Phone: [9098987877]. Customer Name: [Karla]
+[2023-08-01 18:00:10] INFO: Employee 3 processed a new transaction. Transaction: [121]
+[2023-08-01 18:00:21] INFO: Employee 3 voided transaction.
+[2023-08-01 18:00:22] INFO: Employee 3 logged out
+[2023-08-01 18:00:27] INFO: Employee 1 logged in
+[2023-08-01 18:00:45] FINE: Employee 1 added a new customer. Customer ID: [24]. Customer Phone: [6667788988]. Customer Name: [Smiski]
+[2023-08-01 18:00:45] INFO: Employee 1 processed a new transaction. Transaction: [122]
+[2023-08-01 18:00:48] INFO: Employee 1 voided transaction.
+[2023-08-01 18:00:50] INFO: Employee 1 logged out
+[2023-08-01 18:00:54] INFO: Employee 4 logged in
+[2023-08-01 18:01:36] FINE: Employee 4 added a new customer. Customer ID: [25]. Customer Phone: [7771111223]. Customer Name: [Karla]
+[2023-08-01 18:01:36] INFO: Employee 4 processed a new transaction. Transaction: [123]
+[2023-08-01 18:01:38] INFO: Employee 4 logged out
+[2023-08-02 00:41:34] INFO: Employee 1 logged in
+[2023-08-02 00:41:41] INFO: Employee 1 voided transaction.
+[2023-08-02 00:41:43] INFO: Employee 1 logged out
+[2023-08-06 17:10:54] INFO: Employee 2 logged in
+[2023-08-06 17:11:01] INFO: Employee 2 processed a new transaction. Transaction: [124]
+[2023-08-06 17:11:03] INFO: Employee 2 logged out
+[2023-08-07 16:18:08] INFO: Employee 1 logged in
+[2023-08-07 16:18:11] INFO: Employee 1 voided transaction.
+[2023-08-07 16:18:12] INFO: Employee 1 logged out
+[2023-08-07 16:19:08] INFO: Employee 2 logged in
+[2023-08-07 16:19:09] INFO: Employee 2 voided transaction.
+[2023-08-07 16:19:12] INFO: Employee 2 logged out
+[2023-08-07 17:29:03] INFO: Employee 2 logged in
+[2023-08-07 17:29:41] INFO: Employee 2 processed a new transaction. Transaction: [125]
+[2023-08-07 17:29:43] INFO: Employee 2 logged out
+[2023-08-07 17:31:08] INFO: Employee 3 logged in
+[2023-08-07 17:31:44] INFO: Employee 3 processed a new transaction. Transaction: [126]
+[2023-08-07 17:32:02] INFO: Employee 3 processed a new transaction. Transaction: [127]
+[2023-08-07 17:32:03] INFO: Employee 3 logged out
+[2023-08-07 17:32:43] INFO: Employee 1 logged in
+[2023-08-07 17:33:44] FINE: Employee 1 added a new customer. Customer ID: [26]. Customer Phone: [4353782342]. Customer Name: [kyoko]
+[2023-08-07 17:33:44] INFO: Employee 1 processed a new transaction. Transaction: [128]
+[2023-08-07 17:33:57] INFO: Employee 1 logged out
+[2023-08-07 17:51:33] INFO: Employee 2 logged in
+[2023-08-07 17:51:54] INFO: Employee 2 processed a new transaction. Transaction: [129]
+[2023-08-07 17:52:02] INFO: Employee 2 logged out
+[2023-08-07 18:08:43] INFO: Employee 4 logged in
+[2023-08-07 18:09:29] INFO: Employee 4 processed a new transaction. Transaction: [130]
+[2023-08-07 18:09:34] INFO: Employee 4 logged out
+[2023-08-07 18:24:58] INFO: Employee 4 logged in
+[2023-08-07 18:25:38] INFO: Employee 4 processed a new transaction. Transaction: [131]
+[2023-08-07 18:25:41] INFO: Employee 4 logged out
+[2023-08-08 00:23:29] INFO: Employee 4 logged in
+[2023-08-08 00:23:37] INFO: Employee 4 processed a new transaction. Transaction: [132]
+[2023-08-08 00:23:38] INFO: Employee 4 logged out
+[2023-08-08 14:20:19] INFO: Employee 2 logged in
+[2023-08-08 14:22:04] INFO: Employee 2 voided transaction.
+[2023-08-08 14:22:06] INFO: Employee 2 logged out
+[2023-08-08 14:22:07] WARNING: System failure. Can not proceed with product selection and transaction
+[2023-08-08 14:22:33] INFO: Employee 2 logged in
+[2023-08-08 14:23:29] INFO: Employee 2 processed a new transaction. Transaction: [133]
+[2023-08-08 14:23:35] INFO: Employee 2 logged out
+[2023-08-08 14:43:28] INFO: Employee 4 logged in
+[2023-08-08 14:43:33] INFO: Employee 4 processed a new transaction. Transaction: [134]
+[2023-08-08 14:43:36] INFO: Employee 4 logged out
+[2023-08-08 14:49:11] INFO: Employee 2 logged in
+[2023-08-08 14:49:12] INFO: Employee 2 voided transaction.
+[2023-08-08 14:49:13] INFO: Employee 2 logged out
