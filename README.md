@@ -2,7 +2,7 @@
 
 This repository contains two scripts: `employee_performance.py` and `events_query.py`
 
-The `employee_performance.py` script is used as a **Employee Performance Tracker** based on their customer signups, while the `events_query.py` script is used as a **Log Search Utility** that makes queries based on log levels or log messages.
+The `employee_performance.py` script is used as a **Employee Performance Tracker** based on customer signups, while the `events_query.py` script is used as a **Log Search Utility** that makes queries based on log levels or log messages.
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ This script generates two files, which are currently ignored by the .gitignore f
         - A CSV file that contains a summary and quick overview of all signup events from the log file.
         - It contains: Employee ID, Sign-up Date, Customer ID, Customer's Phone Number, Customer's First Name
 
-***To showcase these files, I've included a `sample_employee_signup_performance.txt` and a `sample_sign_up_events.csv`***
+***To showcase these files, I've included a `sample_employee_signup_perf.txt` and a `sample_sign_up_events.csv`***
 
 <a name="usage"></a>
 ### Usage
