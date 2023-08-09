@@ -37,7 +37,7 @@ This script generates two files, which are currently ignored by the .gitignore f
 <a name="usage"></a>
 ### Usage
 
-1. Ensure you have the appropriate log file. I have included a sample log file in this repository, which is a copy of my POS' log file.
+1. Ensure you have the appropriate log file. I have included a sample log file in this repository, which is a snipped copy of my POS' log file.
 
 2. You may have to change file paths within the script.
 
@@ -89,7 +89,7 @@ my_repository/
 │
 ├── employee_performance_tracker.py
 ├── log_search_utility.py
-├── sample_logs.txt
+├── sample_logs.txt (A sample log file that is used by the scripts)
 ├── sample_employee_signup_performance.txt (This should not be auto-generated; It's used to showcase the ignored file by git)
 ├── sample_sign_up_events.csv (This should not be auto-generated; It's used to showcase the ignored file by git)
 │
