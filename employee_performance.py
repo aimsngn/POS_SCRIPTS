@@ -14,7 +14,7 @@ def extract_signups_from_logs():
     """
     sign_ups_list = []
    
-    file_path = "../files/pos_logs.txt"
+    file_path = "scripts/sample_logs.txt"
     file_path = os.path.abspath(file_path)
    
     # Opens the log file and analyzes it line by line
@@ -47,7 +47,7 @@ def export_signups_events(sign_ups_list):
     # The csv header
     keys = ["Employee ID", "Sign-up Date", "Customer ID", "Customer's Phone Number", "Customer's First Name"]
     
-    file_path = "../files/sign_up_events.csv"
+    file_path = "scripts/files/sign_up_events.csv"
     file_path = os.path.abspath(file_path)
    
     # Generates the CSV file
@@ -65,7 +65,7 @@ def count_signups_from_events():
     """
     signup_counts = {}
    
-    file_path = "../files/sign_up_events.csv"
+    file_path = "scripts/files/sign_up_events.csv"
     file_path = os.path.abspath(file_path)
    
     # Opens the exported CSV file and analyzes it per row
@@ -88,7 +88,7 @@ def export_employee_performance(signup_counts):
     Args:
         signup_counts: The employee ID and their respective signup counts from the count_signups_from_events function
     """
-    file_path = "../files/employee_signup_performance.txt"
+    file_path = "scripts/files/employee_signup_performance.txt"
     file_path = os.path.abspath(file_path)
    
     # Generates the file
